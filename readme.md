@@ -1,5 +1,5 @@
 # Sitecore.Support.94861.109332
-Make the Start Date and End Date filters workable for non-English locales
+Make the `Start Date` and `End Date` filters workable for non-English locales.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.94861.109332/blob/master/LICENSE).  
